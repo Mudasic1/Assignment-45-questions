@@ -1,0 +1,24 @@
+{
+  "name": "assignment-45-questions-giaic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bin": {
+    "<package_name>": "./bin/<output_js_file>.js"
+  },
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "inquirer": "^9.2.15"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.29",
+    "typescript": "^5.4.2"
+  }
+}
